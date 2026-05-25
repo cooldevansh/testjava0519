@@ -5,8 +5,7 @@ public class car{
 
 
     car(String make, String model){
-     //test
-        this.Make = make;
+     this.Make = make;
      this.Model = model;
      this.IsCarOn = false ;
       }
